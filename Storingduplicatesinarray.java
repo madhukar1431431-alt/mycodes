@@ -1,5 +1,6 @@
 package MadhuTestJava;
 
+import java.util.Collections;
 import java.util.HashSet;
 
 public class Storingduplicatesinarray {
@@ -18,6 +19,7 @@ public class Storingduplicatesinarray {
 			}				
 			
 		}
+			
 		System.out.println(Dub);
 	}
 
